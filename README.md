@@ -1,6 +1,6 @@
 # About me
 
-- Hi!👋 , my name is **Eugenio Lopes**, I have a degree in **Systems Analysis and Development** and I am always studying everything I can about technology.
+- Hi!👋 , my name is **Eugenio**, I have a degree in **Systems Analysis and Development** and I am always studying everything I can about technology.
 
 - **My dream** is to be able to change the world for the better using techno-scientific knowledg
 
